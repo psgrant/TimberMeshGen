@@ -1,2 +1,2 @@
 # TimberMeshGen
-yeah
+more documented readme coming
