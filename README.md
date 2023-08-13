@@ -1,5 +1,7 @@
 # TimberMeshGen
-more documented readme coming
+More documented readme coming.
+
+
 Please contact Patrick Grant at p21.grant@qut.edu.au with any questions and clarification.
 
 The files are run in the following order:
