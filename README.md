@@ -11,3 +11,6 @@ The files are run in the following order:
 - BoxSegementing (which calls RingZoning and ExportGeo)
 
   Then mesh the geometry in Gmsh and output the mesh file as a .m file. This is then read by ImportMesh3D (make sure to not clear the workspace)
+
+
+### View PaperAnimation.mp4 for the animation
